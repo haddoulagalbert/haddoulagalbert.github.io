@@ -22,11 +22,10 @@ Our team HMR (Haddoula B. Galbert, Mateus H. Hubner and Renan F. Pereira) won th
 
 Languages and Computer Skills
 ------
-Python  
-C++  
+Python and C++  
+French, English and Portuguese  
 Microsoft Excel  
-AutoCAD  
-Revit  
+AutoCAD and Revit    
 
 
 Create content & metadata
