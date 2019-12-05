@@ -11,9 +11,9 @@ My name is Haddoula Galbert, currently a 3rd-year student in Civil Engineering a
 
 Professional Background
 ======
-Hydrological Engineering Intern at LACTEC
-Market Intelligence Intern at Votorantim Cimentos
-Environmental Monitoring Intern at UFPR
+Hydrological Engineering Intern at LACTEC  
+Market Intelligence Intern at Votorantim Cimentos  
+Environmental Monitoring Intern at UFPR  
 
 News
 ======
