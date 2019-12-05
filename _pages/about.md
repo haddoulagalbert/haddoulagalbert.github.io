@@ -21,8 +21,14 @@ News
 ======
 Paper is accepted by EVINTI 2019.  
   
+I joined Lactec as an Intern.  
+  
 Our team HMR Sims (Haddoula B. Galbert, Mateus H. Hubner and Renan F. Pereira) won the 2nd place in the [Traffic Microsimulation Competition](https://getufpr.wixsite.com/getufpr/blog/i-competi%C3%A7%C3%A3o-de-microssimula%C3%A7%C3%A3o), organized by the [Transport Study Group](https://getufpr.wixsite.com/getufpr) at UFPR.  
 
+I joined Votorantim as an Intern.
+  
+Selected to develop an academic project about Environmental Engineering, advised by Dr. Tobias B. Bleninger.
+  
 Languages and Computer Skills
 ------
 Python and C++  
