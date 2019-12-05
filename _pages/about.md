@@ -9,16 +9,18 @@ redirect_from:
 ---
 My name is Haddoula Galbert, currently a 3rd-year student in Civil Engineering at Federal University of Paraná. My current carreer interests are [Hydrological Engineer](https://en.wikipedia.org/wiki/Hydrology), [Structural Engineer](https://en.wikipedia.org/wiki/Structural_engineer) and Civil Engineering Software Developer. I am a founder member of the Earthquake Engineering Study Group at UFPR.
 
-Professional Activities
+Professional Background
 ======
-Hydrology Researcher Assistent.
+Hydrological Engineering Intern at LACTEC
+Market Intelligence Intern at Votorantim Cimentos
+Environmental Monitoring Intern at UFPR
 
 News
 ======
 Paper is accepted by EVINTI 2019.
-Our team HMR (Haddoula B. Galbert, Mateus H. Hubner and Renan F. Pereira) won the 2nd place in the Traffic Microsimulation Competition, organized by the Transport Study Group at UFPR.
+Our team HMR (Haddoula B. Galbert, Mateus H. Hubner and Renan F. Pereira) won the 2nd place in the [Traffic Microsimulation Competition](https://getufpr.wixsite.com/getufpr/blog/i-competi%C3%A7%C3%A3o-de-microssimula%C3%A7%C3%A3o), organized by the Transport Study Group (https://getufpr.wixsite.com/getufpr) at UFPR.
 
-Site-wide configuration
+Languages and Computer Skills
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
