@@ -16,10 +16,10 @@ Education
 Work experience
 ======
 * 2019 - : Research Assistant
-  * Lactec
-  * Duties included:
-     * Back-end development of Hydrology website.
-  * Supervisor: Ing. João Saboia
+ * Lactec
+ * Duties included:
+    * Back-end development of Hydrology website.
+ * Supervisor: Ing. João Saboia
 
 * 2018 - Present: Research Assistant
   * Federal University of Paraná
