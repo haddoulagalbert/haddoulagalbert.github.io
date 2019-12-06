@@ -18,7 +18,7 @@ Work experience
 * 2019 - : Hydrological Engineering Intern
   * Lactec
   * Duties included:
-    * Back-end development of Hydrology website.
+    * Back-end development of Hydrology website
   * Supervisor: Eng. João Saboia
   
 * 2018 - Present: Market Intelligence Intern
