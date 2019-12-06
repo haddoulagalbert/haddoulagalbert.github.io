@@ -15,22 +15,29 @@ Education
 
 Work experience
 ======
-* 2019 - : Hydrological Engineering Intern
+* 09/2019 - : Hydrological Engineering Intern
   * Lactec
   * Duties included:
     * Back-end development of Hydrology website
   * Supervisor: Eng. João Saboia
-  
-* 2018 - Present: Market Intelligence Intern
+
+* 07/2019 - : Research Assistant
+  * Federal University of Paraná
+  * Duties included:
+    * Remote Sensing Applied to Water Quality
+  * Supervisor: Eng. Ricardo Winter
+
+* 01/2019 - 09/2019: Market Intelligence Intern
   * Votorantim Cimentos
   * Duties included:
     * Cement Market Analyses
   * Supervisor: Eng. Ricardo Winter
 
-* 2018 - Present: Research Assistant
+* 06/2018 - 06/2019: Research Assistant
   * Federal University of Paraná
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Tobias B. 
+  * Duties included:
+    * Environmental Monitoring Using Smartphones
+  * Supervisor: Professor Tobias Bleninger
   
 Skills
 ======
