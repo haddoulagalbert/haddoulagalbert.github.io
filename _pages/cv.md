@@ -15,11 +15,17 @@ Education
 
 Work experience
 ======
-* 2019 - : Research Assistant
+* 2019 - : Hydrological Engineering Intern
   * Lactec
   * Duties included:
     * Back-end development of Hydrology website.
-  * Supervisor: Ing. João Saboia
+  * Supervisor: Eng. João Saboia
+  
+* 2018 - Present: Market Intelligence Intern
+  * Votorantim Cimentos
+  * Duties included:
+    * Cement Market Analyses
+  * Supervisor: Eng. Ricardo Winter
 
 * 2018 - Present: Research Assistant
   * Federal University of Paraná
