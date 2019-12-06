@@ -19,7 +19,6 @@ Work experience
   * Lactec
   * Duties included:
      * Back-end development of Hydrology website: Anascrap
-        * Intensive use of SIG Softwares like QGIS and Programming Languages like Python.
   * Supervisor: Ing. João Saboia
 
 * 2018 - Present: Research Assistant
