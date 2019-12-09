@@ -2,7 +2,7 @@
 title: "Intership at Lactec"
 collection: internship
 type: "Internship"
-permalink: /_teaching/lactec-internship
+permalink: /teaching/lactec-internship
 venue: "Lactec, Hidrology"
 date: 2019-12-09
 location: "Curitiba, Brazil"
