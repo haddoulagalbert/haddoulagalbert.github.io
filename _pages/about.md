@@ -37,4 +37,4 @@ French, English and Portuguese
   
 Microsoft Excel  
   
-AutoCAD and Revit    
+QGIS, AutoCAD and Revit    
