@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Haddoula Bigord Galbert, currently a 3rd-year student in Civil Engineering at Federal University of Paraná. My current carreer interests are [Hydrological Engineer](https://en.wikipedia.org/wiki/Hydrology), [Structural Engineer](https://en.wikipedia.org/wiki/Structural_engineer) and Civil Engineering Software Developer. I am a founder member of the Earthquake Engineering Study Group at UFPR.
+My name is Haddoula Bigord Galbert, currently a 4th year student in Civil Engineering at Federal University of Paraná. My current carreer interests are [Hydrological Engineer](https://en.wikipedia.org/wiki/Hydrology), [Structural Engineer](https://en.wikipedia.org/wiki/Structural_engineer) and Civil Engineering Software Developer. I am a founder member of the Earthquake Engineering Study Group at UFPR.
 
 Professional Background
 ======
