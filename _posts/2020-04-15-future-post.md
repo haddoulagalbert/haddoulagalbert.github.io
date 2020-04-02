@@ -1,7 +1,7 @@
 ---
-title: 'Futebol e Cultura Brasileira'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'A imigração haitiana no Brasil: vantagens e desvantagens'
+date: 2020-04-15
+permalink: /posts/2020/04/blog-post-4/
 tags:
   - cool posts
   - category1
