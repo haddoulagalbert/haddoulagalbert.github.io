@@ -1,7 +1,7 @@
 ---
 title: 'Covid-19 : Ya danger !'
 date: 2020-04-04
-permalink: /posts/2020/04/blog-post-2/
+permalink: /posts/2020/04/covid19_ya_danger/
 tags:
   - Coronavirus
   - Sars-Cov-2
