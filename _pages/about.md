@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Haddoula Bigord Galbert, currently a 4th year student in Civil Engineering at Federal University of Paraná. My current carreer interests are [Hydrological Engineer](https://en.wikipedia.org/wiki/Hydrology), [Structural Engineer](https://en.wikipedia.org/wiki/Structural_engineer) and Civil Engineering Software Developer. I am a founder member of the Earthquake Engineering Study Group at UFPR.
+My name is Haddoula Bigord Galbert, currently a 4th year student in Civil Engineering at INSA Strasbourg (France) and Universidade Federal do Paraná (Brazil). My current carreer interests are [Hydrological Engineer](https://en.wikipedia.org/wiki/Hydrology), [Structural Engineer](https://en.wikipedia.org/wiki/Structural_engineer) and Civil Engineering Software Developer.
 
 Professional Background
 ======
@@ -16,6 +16,15 @@ Hydrological Engineering Intern at LACTEC
 Market Intelligence Intern at Votorantim Cimentos  
   
 Environmental Monitoring Intern at UFPR  
+
+Projects
+======
+Image based water quality monitoring using Google Earth Engine. (2020-2021)
+
+Image based water quality monitoring using drone surveys. (2019-2020)
+
+Image based water quality monitoring using smart phones. (2018-2019)
+
 
 News
 ======
@@ -31,7 +40,7 @@ Selected to develop an academic project about Environmental Engineering, advised
   
 Languages and Computer Skills
 ------
-Python and C++  
+Python, JAVA and C++  
   
 French, English and Portuguese  
   
